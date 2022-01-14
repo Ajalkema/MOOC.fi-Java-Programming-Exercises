@@ -13,7 +13,7 @@ public class loops2 {
             }
 
             if (num < 0) {
-                System.out.println("Mongool");
+                System.out.println("Jammer");
                 continue;
             }         
             

@@ -9,7 +9,7 @@ public class printing {
 
         System.out.println("Jouw naam is " + message);
 
-        System.out.println("Tiep een boolean.");
+        System.out.println("typ een boolean.");
 
         Boolean boolian = Boolean.valueOf(scanner.nextLine());
 

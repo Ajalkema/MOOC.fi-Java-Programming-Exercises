@@ -14,7 +14,7 @@ public class methods2 {
 
     public static void divisor(int numer, int denom) {
         if (denom == 0) {
-            System.out.println("Mongool");
+            System.out.println("Jammer");
             return;
         }
 
