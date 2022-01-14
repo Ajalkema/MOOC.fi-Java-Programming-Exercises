@@ -25,5 +25,6 @@ public class PersonalDetails {
         double avgBirthyear = 1.0 * sumBirthYear / counter;
         System.out.println("Average of the birth years: " + avgBirthyear);
         reader.close();
+        
     }
 }
