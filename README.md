@@ -13,5 +13,6 @@ The topics per part are the following:
 - Part 7: Programming paradigms, algorithms. Includes three larger programming exercises
 
 ### Java programming II
+- Part 8: HashMaps, Similarity of objects, Grouping data using hash maps
 
 # In progress
