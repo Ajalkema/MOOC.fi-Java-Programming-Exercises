@@ -14,5 +14,6 @@ The topics per part are the following:
 
 ### Java programming II
 - Part 8: HashMaps, Similarity of objects, Grouping data using hash maps
+- Part 9: Class inheritance, Interfaces, Object polymorphism
 
 # In progress
